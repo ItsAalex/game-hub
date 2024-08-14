@@ -26,7 +26,10 @@ function App() {
       <Show above="lg">
         <GridItem area="aside" paddingX={5}>
           {/* Here app component gets notified that new genre is selected */}
-          <GenreList onSelectGenre={(genre) => setselectedGenre(genre)} />
+          <GenreList
+            selectedGenre={selectedGenre}
+            onSelectGenre={(genre) => setselectedGenre(genre)}
+          />
         </GridItem>
       </Show>
       <GridItem area="main">
