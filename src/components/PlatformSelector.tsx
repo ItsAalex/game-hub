@@ -8,6 +8,7 @@ interface Props {
   selectedPlatform: Platform | null;
 }
 const PlatformSelector = ({ onSelectPlatform, selectedPlatform }: Props) => {
+  // Handling http requests from usePlatforms, and then taking handled data and potentital errors
   const { data, error } = usePlatforms();
 
   if (error) {
