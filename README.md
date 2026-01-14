@@ -7,10 +7,7 @@ Landing online gaming shop page. This project is created as a learning project f
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -80,20 +77,11 @@ pytest
 
 ## Acknowledgments
 
-- Credit any libraries, tools, or people who helped
-- Link to resources or inspiration
-- Mention any related projects
+- Thanks to Code with Mosh for such a good React course!
 
 ## Contact
 
 Aleksandar Cvetkovic - linkedin.com/in/aleksandar-cvetkovic-7a880b257 - aleksandarcvetkovic756@gmail.com
-
-## Roadmap
-
-- [x] Completed feature
-- [ ] Planned feature 1
-- [ ] Planned feature 2
-- [ ] Future enhancement
 
 ---
 
@@ -101,8 +89,4 @@ Aleksandar Cvetkovic - linkedin.com/in/aleksandar-cvetkovic-7a880b257 - aleksand
 
 ### Screenshots
 
-![App Screenshot](path/to/screenshot.png)
-
-### Performance
-
-Mention any performance benchmarks or considerations.
+COMING SOON
