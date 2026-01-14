@@ -85,8 +85,6 @@ Aleksandar Cvetkovic - linkedin.com/in/aleksandar-cvetkovic-7a880b257 - aleksand
 
 ---
 
-## Additional Sections (Use as needed)
-
 ### Screenshots
 
 COMING SOON
